@@ -10,7 +10,6 @@ Grab the latest build for your computer from the [**Releases**](../../releases/l
 | Your computer | File |
 |---|---|
 | **Mac** (Apple Silicon — M1/M2/M3/M4) | `ATP-macos-arm64.zip` |
-| **Mac** (older Intel) | `ATP-macos-intel.zip` |
 | **Windows** | `ATP-windows-x64.zip` |
 
 Unzip and open. The app isn't code-signed, so the **first** launch needs a one-time "allow" step
